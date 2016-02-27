@@ -3,7 +3,7 @@ description: Blogging about life and tech
 meta_description: record evething
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 2000
 baseurl: /
